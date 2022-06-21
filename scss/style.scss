@@ -322,7 +322,7 @@ header {
 }
 
 .bodycontact {
-    @include body()
+    @include body;
     background: $gradient;
     
 }
